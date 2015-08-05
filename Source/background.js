@@ -23,11 +23,14 @@ var quotes = [
 'I Saw Owen Wilson One Time From A Distance And We Just Stared At Each Other, Then His Car Drove Off.',
 'All Of Your Idols Are Going To Start Writing Their Own Articles, And These Uninformed "Journalists" Will Become Obsolete.',
 "I'm Gunna Be So Hype On Stage Tomorrow I Might Throw Up.",
-'I Would Like To Remind You Guys That I Designed My Very O',
-'wn Musical App Platform And Released My Debut Album For Free.',
+'I Would Like To Remind You Guys That I Designed My Very Own Musical App Platform And Released My Debut Album For Free.',
 '"Every Rich Kid Has A Sweet 16 So Why Didn'+"'t We Hear About Jaden's?"+'" OHH Wait He Didn'+"'t Have One!",
 'Instagram Is A BlackHole Of Time And Energy.',
-'That Moment When You Can'+"'t Sleep Soo You Start Doing Math."
+'That Moment When You Can'+"'t Sleep Soo You Start Doing Math.",
+"Don't Become Attached Cause Then You Disconnect And Once You Gather Stress You'll Be Obsessed With Flipin Checks",
+"I Never Realized How Dysfunctional A King Is Without A Queen • • • Balance Is Key.",
+"I Really Dislike When All The Pretty Girls Hangout At Once • • • #CauseImNeverThere",
+
 ]
 
 function copy() {
