@@ -1,0 +1,33 @@
+{
+	"manifest_version": 2,
+	"name": "Jaden Smith Paster",
+	"version": "1.0",
+	"description": "Copies Jaden Smith quotes to your clipboard",
+	"background": {
+        "persistent":true,
+        "page": "background.html"
+    },
+	"browser_action": {
+	   "default_icon": "icon128.png",
+  		"default_title": "Jaden",
+  		"default_popup": "popup.html"
+	},
+	"icons": { 
+        "128": "icon128.png"
+  	},
+	"permissions": [
+		"tabs",
+		"notifications",
+		"clipboardWrite"
+    ],
+    "commands": {
+		"jaden": {
+		      "suggested_key": {
+		        "default": "Ctrl+Shift+1"
+		      },
+		      "description": "Toggle feature foo",
+		      "global" : true
+		}
+    }
+
+}
