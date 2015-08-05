@@ -28,8 +28,8 @@ var quotes = [
 'Instagram Is A BlackHole Of Time And Energy.',
 'That Moment When You Can'+"'t Sleep Soo You Start Doing Math.",
 "Don't Become Attached Cause Then You Disconnect And Once You Gather Stress You'll Be Obsessed With Flipin Checks",
-"I Never Realized How Dysfunctional A King Is Without A Queen • • • Balance Is Key.",
-"I Really Dislike When All The Pretty Girls Hangout At Once • • • #CauseImNeverThere",
+"I Never Realized How Dysfunctional A King Is Without A Queen Balance Is Key.",
+"I Really Dislike When All The Pretty Girls Hangout At Once #CauseImNeverThere",
 
 ]
 
