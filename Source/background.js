@@ -58,12 +58,6 @@ chrome.commands.onCommand.addListener(function(command) {
   copy();
 });
 
-
-chrome.runtime.onMessage.addListener(
-  function(request, sender, sendResponse) {
-    copy();
-  });
-
 chrome.browserAction.onClicked.addListener(function(callback){
   chrome.notifications.clear("1");
   chrome.notifications.create(
