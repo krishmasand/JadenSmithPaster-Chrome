@@ -63,3 +63,22 @@ chrome.runtime.onMessage.addListener(
   function(request, sender, sendResponse) {
     copy();
   });
+
+chrome.browserAction.onClicked.addListener(function(callback){
+  chrome.notifications.clear("1");
+  chrome.notifications.create(
+          "1",
+          {
+            type:'basic',
+            iconUrl:chrome.runtime.getURL("icon128.png"),
+            title : "Copied Quote",
+            message: "You can also copy a quote by using the keyboard shortcut Ctrl+Shift+1 (Command+Shift+1 for Mac)",
+            isClickable: true
+            
+          },
+          function() {
+            console.log(chrome.runtime.lastError);
+          }
+        );
+  copy();
+});
