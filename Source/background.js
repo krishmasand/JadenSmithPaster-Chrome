@@ -16,8 +16,7 @@ var quotes = [
 'You Would Have To Eat 5 Apples Today To Get The Same Nutritional Value As An Apple From 1950. #Fallow',
 'Water In The Eyes And Alcohol In The Eyes Are Pretty Much The Same I Know This From First Hand Experience.',
 'You Do Not Know Who You Are Or Why Your Here So When You See Someone Who Dose The Society Comes Together As A Whole And Destroys Them.',
-'To The Artist Of This Coming Generation And Of The Renaissance.',
-"The People That Truly Understand Your Art are The People Who Don't Comment",
+"To The Artist Of This Coming Generation And Of The Renaissance. The People That Truly Understand Your Art are The People Who Don't Comment",
 'The Great Gatsby Is One Of The Greatest Movies Of All Time, Coachella.',
 'If Everybody In The World Dropped Out Of School We Would Have A Much More Intelligent Society.',
 'I Saw Owen Wilson One Time From A Distance And We Just Stared At Each Other, Then His Car Drove Off.',
@@ -30,7 +29,11 @@ var quotes = [
 "Don't Become Attached Cause Then You Disconnect And Once You Gather Stress You'll Be Obsessed With Flipin Checks",
 "I Never Realized How Dysfunctional A King Is Without A Queen Balance Is Key.",
 "I Really Dislike When All The Pretty Girls Hangout At Once #CauseImNeverThere",
-
+"Ill Never Forget The Blogs That Believed In Me Since The Begging",
+"People Tell Me To Smile I Tell Them The Lack Of Emotion In My Face Doesn't Mean I'm Unhappy",
+"I Encourage You All To Unfollow Me So I Can Be Left With The People Who Actually Appreciate Philosophy And Poetry. #CoolTapeVol2",
+"We Need To Stop Teaching The Youth About The Past And Encourage Them To Change The Future.",
+"I Should Just Stop Tweeting, The Human Consciousness Must Raise Before I Speak My Juvenile Philosophy. Shouts Out To @TIME"
 ]
 
 function copy() {
