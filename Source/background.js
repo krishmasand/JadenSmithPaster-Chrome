@@ -33,7 +33,9 @@ var quotes = [
 "People Tell Me To Smile I Tell Them The Lack Of Emotion In My Face Doesn't Mean I'm Unhappy",
 "I Encourage You All To Unfollow Me So I Can Be Left With The People Who Actually Appreciate Philosophy And Poetry. #CoolTapeVol2",
 "We Need To Stop Teaching The Youth About The Past And Encourage Them To Change The Future.",
-"I Should Just Stop Tweeting, The Human Consciousness Must Raise Before I Speak My Juvenile Philosophy. Shouts Out To @TIME"
+"I Should Just Stop Tweeting, The Human Consciousness Must Raise Before I Speak My Juvenile Philosophy. Shouts Out To @TIME",
+"I Just Like Showing Pretty Girls A Good Time Weather I'm Physically There Or Not Doesn't Matter",
+"A Little Girl Just Asked Me If I Was Willow Smith I Humbly Said Yes And Took A Selfie."
 ]
 
 function copy() {
