@@ -67,7 +67,7 @@ chrome.browserAction.onClicked.addListener(function(callback){
           {
             type:'basic',
             iconUrl:chrome.runtime.getURL("icon128.png"),
-            title : "Copied Quote",
+            title : "Copied Quote to Clipboard",
             message: "You can also copy a quote by using the keyboard shortcut Ctrl+Shift+1 (Command+Shift+1 for Mac)",
             isClickable: true
             
